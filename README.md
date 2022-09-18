@@ -1,2 +1,1 @@
-# Android-Project-2
-Build A Grocery Android App - Project 2
+# Virtual Internship - Android Application Development Using Kotlin
